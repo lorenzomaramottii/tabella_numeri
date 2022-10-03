@@ -1,0 +1,4 @@
+td{font-size:32px}
+td,tr{border: 1px dashed rgb(161, 161, 161); border-collapse: separate;}
+td.even{background: #fcff45;}
+td.odd{background: #3f4cff;}
